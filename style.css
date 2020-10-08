@@ -192,6 +192,19 @@ header {
     padding-right: 100px;
 }
 
+.fa-facebook-square{
+    cursor: pointer;
+}
+
+.fa-twitter-square{
+    cursor: pointer;
+}
+
+.fa-github-square{
+    cursor: pointer;
+}
+
+
 .bubble4 {
     background-color: #88AED0;
     border-radius: 3px;
