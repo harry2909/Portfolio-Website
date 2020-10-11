@@ -127,7 +127,6 @@ header {
     justify-content: center;
     margin: 0 auto;
     padding-top: 200px;
-    padding-bottom: 550px;
 }
 
 .about__bubble {
@@ -178,7 +177,10 @@ header {
     max-width: 100%;
     max-height: 100%;
     overflow: hidden;
+    border-radius: 250px;
     image-rendering: optimizeSpeed;
+    border: 15px solid #d2e4e6;
+    box-shadow: 0 0 0 15px #e7f0f2;
 }
 
 .about__area__more {
@@ -217,6 +219,44 @@ header {
 .about__me__text {
     width: 30%;
 }
+
+.code__area{
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    padding-top: 200px;
+}
+
+.codeImage__area {
+    padding-left: 120px;
+    max-width: 28%;
+    max-height: 28%;
+}
+
+.code__image {
+    max-width: 100%;
+    max-height: 100%;
+    overflow: hidden;
+    border-radius: 250px;
+    image-rendering: optimizeSpeed;
+    border: 15px solid #d2e4e6;
+    box-shadow: 0 0 0 15px #e7f0f2;
+}
+
+.codeDetail__area{
+    padding-top: 10px;
+    width: 35%;
+}
+
+.code__bubble{
+    background-color: #88AED0;
+    border-radius: 3px;
+    width: 15%;
+    color: white;
+    font-size: 16px;
+    padding: 4px 5px;
+}
+
 
 
 
