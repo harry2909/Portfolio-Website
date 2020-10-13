@@ -35,7 +35,7 @@ a {
 }
 
 header {
-    position: sticky;
+    position: fixed;
     top: 0;
     display: flex;
     justify-content: center;
@@ -141,7 +141,7 @@ header {
 .find__bubble {
     background-color: #88AED0;
     border-radius: 3px;
-    width: 19%;
+    width: 20%;
     color: white;
     font-size: 16px;
     float: right;
@@ -264,7 +264,7 @@ header {
 .code__text {
     display: inline-flex;
     padding-top: 10px;
-
+    padding-bottom: 10px;
 }
 
 .code__text > div {
@@ -333,6 +333,112 @@ header {
     font-size: 16px;
     padding: 4px 5px;
 }
+
+.time__bubble {
+    background-color: #88AED0;
+    border-radius: 3px;
+    width: 49%;
+    color: white;
+    font-size: 16px;
+    padding: 4px 8px;
+    margin: 6px;
+}
+
+.code__time{
+    display: flex;
+    flex-direction: column;
+
+}
+
+.code__time > div{
+    margin: 6px;
+    text-align: center;
+}
+
+.java__time{
+    width: 100%;
+    border-radius: 3px;
+    background: #d2e4e6;
+}
+
+.java__time p:hover {
+    color: #4A708B;
+    transition: 0.3s ease 0s;
+    font-weight: bold;
+}
+
+.html__time{
+    width: 100%;
+    border-radius: 3px;
+    background: #d2e4e6;
+}
+
+.html__time p:hover {
+    color: #4A708B;
+    transition: 0.3s ease 0s;
+    font-weight: bold;
+}
+
+.css__time{
+    width: 100%;
+    border-radius: 3px;
+    background: #d2e4e6;
+}
+
+.css__time p:hover {
+    color: #4A708B;
+    transition: 0.3s ease 0s;
+    font-weight: bold;
+}
+
+.php__time{
+    width: 65%;
+    border-radius: 3px;
+    background: #d2e4e6;
+}
+
+.php__time p:hover {
+    color: #4A708B;
+    transition: 0.3s ease 0s;
+    font-weight: bold;
+}
+
+.js__time{
+    width: 35%;
+    border-radius: 3px;
+    background: #d2e4e6;
+}
+
+.js__time p:hover {
+    color: #4A708B;
+    transition: 0.3s ease 0s;
+    font-weight: bold;
+}
+
+.c__time{
+    width: 25%;
+    border-radius: 3px;
+    background: #d2e4e6;
+}
+
+.c__time p:hover {
+    color: #4A708B;
+    transition: 0.3s ease 0s;
+    font-weight: bold;
+}
+
+.laravel__time{
+    width: 25%;
+    border-radius: 3px;
+    background: #d2e4e6;
+}
+
+.laravel__time p:hover {
+    color: #4A708B;
+    transition: 0.3s ease 0s;
+    font-weight: bold;
+}
+
 
 .footer__div {
     display: flex;

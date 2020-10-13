@@ -41,7 +41,7 @@
       <updated>1602450714173</updated>
       <workItem from="1602450715196" duration="16000" />
       <workItem from="1602450925308" duration="1342000" />
-      <workItem from="1602590190573" duration="2434000" />
+      <workItem from="1602590190573" duration="4143000" />
     </task>
     <task id="LOCAL-00001" summary="-">
       <created>1602450968119</created>
@@ -50,7 +50,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602450968119</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added code section with divs for each skills.&#10;Aligned all divs within code detail area.&#10;Added footer and copyright text.">
+      <created>1602592850898</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602592850898</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -58,13 +65,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="-" />
-    <option name="LAST_COMMIT_MESSAGE" value="-" />
+    <MESSAGE value="Added code section with divs for each skills.&#10;Aligned all divs within code detail area.&#10;Added footer and copyright text." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added code section with divs for each skills.&#10;Aligned all divs within code detail area.&#10;Added footer and copyright text." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="585" y="88" key="CommitChangelistDialog2" timestamp="1602450967601">
+    <state x="585" y="88" key="CommitChangelistDialog2" timestamp="1602592850092">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="88" key="CommitChangelistDialog2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602450967601" />
+    <state x="585" y="88" key="CommitChangelistDialog2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602592850092" />
     <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1602451019012">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -73,6 +81,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602451046926" />
+    <state x="551" y="251" key="Vcs.Push.Dialog.v2" timestamp="1602592855668">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="551" y="251" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602592855668" />
     <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602450973466">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
