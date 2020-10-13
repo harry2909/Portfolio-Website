@@ -35,7 +35,7 @@ a {
 }
 
 header {
-    position: absolute;
+    position: sticky;
     top: 0;
     display: flex;
     justify-content: center;
@@ -126,7 +126,7 @@ header {
     display: flex;
     justify-content: center;
     margin: 0 auto;
-    padding-top: 200px;
+    padding-top: 260px;
 }
 
 .about__bubble {
@@ -160,6 +160,7 @@ header {
 .aboutDetail__area {
     padding-top: 10px;
     width: 35%;
+    padding-left: 60px;
 }
 
 .about__text {
@@ -194,15 +195,15 @@ header {
     padding-right: 100px;
 }
 
-.fa-facebook-square{
+.fa-facebook-square {
     cursor: pointer;
 }
 
-.fa-twitter-square{
+.fa-twitter-square {
     cursor: pointer;
 }
 
-.fa-github-square{
+.fa-github-square {
     cursor: pointer;
 }
 
@@ -220,11 +221,12 @@ header {
     width: 30%;
 }
 
-.code__area{
+.code__area {
     display: flex;
     justify-content: center;
     margin: 0 auto;
-    padding-top: 200px;
+    padding-top: 270px;
+    padding-bottom: 270px;
 }
 
 .codeImage__area {
@@ -243,23 +245,108 @@ header {
     box-shadow: 0 0 0 15px #e7f0f2;
 }
 
-.codeDetail__area{
+.codeDetail__area {
     padding-top: 10px;
     width: 35%;
+    padding-left: 50px;
 }
 
-.code__bubble{
+.code__bubble {
     background-color: #88AED0;
     border-radius: 3px;
-    width: 15%;
+    width: 17%;
     color: white;
+    font-size: 16px;
+    padding: 4px 8px;
+    margin: 6px;
+}
+
+.code__text {
+    display: inline-flex;
+    padding-top: 10px;
+
+}
+
+.code__text > div {
+    margin: 6px;
+}
+
+.skill__java {
+    background-color: #e7f0f2;
+    border-radius: 3px;
+    width: 12%;
+    color: black;
     font-size: 16px;
     padding: 4px 5px;
 }
 
+.skill__C {
+    background-color: #e7f0f2;
+    border-radius: 3px;
+    width: 9%;
+    color: black;
+    font-size: 16px;
+    padding: 4px 5px;
+}
 
+.skill__php {
+    background-color: #e7f0f2;
+    border-radius: 3px;
+    width: 9%;
+    color: black;
+    font-size: 16px;
+    padding: 4px 5px;
+}
 
+.skill__html {
+    background-color: #e7f0f2;
+    border-radius: 3px;
+    width: 12%;
+    color: black;
+    font-size: 16px;
+    padding: 4px 5px;
+}
 
+.skill__css {
+    background-color: #e7f0f2;
+    border-radius: 3px;
+    width: 9%;
+    color: black;
+    font-size: 16px;
+    padding: 4px 5px;
+}
+
+.skill__js {
+    background-color: #e7f0f2;
+    border-radius: 3px;
+    width: 21%;
+    color: black;
+    font-size: 16px;
+    padding: 4px 5px;
+}
+
+.skill__laravel {
+    background-color: #e7f0f2;
+    border-radius: 3px;
+    width: 15%;
+    color: black;
+    font-size: 16px;
+    padding: 4px 5px;
+}
+
+.footer__div {
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    text-align: center;
+    width: 100%;
+    height: 50px;
+    background: #d2e4e6;
+}
+
+.footer__text {
+    padding-top: 10px;
+}
 
 /* Media Queries */
 
