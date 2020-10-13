@@ -3,6 +3,12 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -o-user-select: none;
+    user-select: none;
 }
 
 article,
@@ -159,9 +165,28 @@ header {
     font-size: 16px;
     float: right;
     padding: 4px 5px;
+
 }
 
 #find__button {
+    background: none;
+    border-style: none;
+    cursor: pointer;
+    color: white;
+    font-size: 16px;
+}
+
+.cv__bubble {
+    background-color: #88AED0;
+    border-radius: 3px;
+    width: 6%;
+    color: white;
+    font-size: 16px;
+    float: left;
+    padding: 4px 5px;
+}
+
+#cv__button {
     background: none;
     border-style: none;
     cursor: pointer;

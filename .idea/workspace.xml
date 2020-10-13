@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="02f9eea0-2102-4955-b352-27f7ec448924" name="Default Changelist" comment="">
+    <list default="true" id="02f9eea0-2102-4955-b352-27f7ec448924" name="Default Changelist" comment="Retyped modal box dialogue.&#10;Formatted CSS.">
+      <change afterPath="$PROJECT_DIR$/Harry Preston CV.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/modalBox.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/modalBox.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,11 +27,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ikTiBYPW2DH0UlBuPieWQPTmnW" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -47,7 +54,7 @@
       <updated>1602450714173</updated>
       <workItem from="1602450715196" duration="16000" />
       <workItem from="1602450925308" duration="1342000" />
-      <workItem from="1602590190573" duration="10514000" />
+      <workItem from="1602590190573" duration="12891000" />
     </task>
     <task id="LOCAL-00001" summary="-">
       <created>1602450968119</created>
@@ -126,13 +133,21 @@
       <option name="project" value="LOCAL" />
       <updated>1602599959818</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Retyped modal box dialogue.&#10;Formatted CSS.">
+      <created>1602602629378</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1602602629378</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="-" />
     <MESSAGE value="Added code section with divs for each skills.&#10;Aligned all divs within code detail area.&#10;Added footer and copyright text." />
     <MESSAGE value="Removed Social Media links in HTML.&#10;&#10;Added code time visualisation section.&#10;&#10;Removed reusable comment code.&#10;&#10;Changed header from sticky to fixed.&#10;&#10;Added code for new bubblesl and skills area in css." />
@@ -144,13 +159,14 @@
     <MESSAGE value="Removed extra about page." />
     <MESSAGE value="Renamed link to CV to prepare for CV section." />
     <MESSAGE value="Amended gears image class name to about me&#10;Added hover color change for better contrast on hover" />
-    <option name="LAST_COMMIT_MESSAGE" value="Amended gears image class name to about me&#10;Added hover color change for better contrast on hover" />
+    <MESSAGE value="Retyped modal box dialogue.&#10;Formatted CSS." />
+    <option name="LAST_COMMIT_MESSAGE" value="Retyped modal box dialogue.&#10;Formatted CSS." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="402" y="43" width="1139" height="908" key="CommitChangelistDialog2" timestamp="1602599959034">
+    <state x="402" y="43" width="1139" height="908" key="CommitChangelistDialog2" timestamp="1602605756888">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="402" y="43" width="1139" height="908" key="CommitChangelistDialog2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602599959034" />
+    <state x="402" y="43" width="1139" height="908" key="CommitChangelistDialog2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602605756888" />
     <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1602451019012">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -159,10 +175,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602451046926" />
-    <state x="551" y="251" key="Vcs.Push.Dialog.v2" timestamp="1602599963196">
+    <state x="551" y="251" key="Vcs.Push.Dialog.v2" timestamp="1602602632262">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="551" y="251" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602599963196" />
+    <state x="551" y="251" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602602632262" />
     <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602450973466">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
