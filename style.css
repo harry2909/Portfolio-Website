@@ -67,6 +67,10 @@ header {
     transition: 0.7s ease 0s;
 }
 
+.scroll li a:hover{
+    color: white;
+}
+
 .scroll2{
     transition: 0.7s ease 0s;
 }
@@ -217,7 +221,7 @@ header {
     max-height: 38%;
 }
 
-.gears__image {
+.about__me__image {
     max-width: 100%;
     max-height: 100%;
     overflow: hidden;
