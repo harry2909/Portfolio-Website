@@ -520,6 +520,44 @@ header {
     background: #d2e4e6;
 }
 
+.contact__area {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    padding-top: 260px;
+}
+
+.contact__bubble {
+    background-color: #88AED0;
+    border-radius: 3px;
+    width: 19%;
+    padding: 4px 5px;
+    color: white;
+    font-size: 16px;
+}
+
+.contactImage__area {
+    padding-left: 120px;
+    max-width: 38%;
+    max-height: 38%;
+}
+
+.contact__image {
+    max-width: 100%;
+    max-height: 100%;
+    overflow: hidden;
+    border-radius: 250px;
+    image-rendering: optimizeSpeed;
+    border: 15px solid #d2e4e6;
+    box-shadow: 0 0 0 15px #e7f0f2;
+}
+
+.contactDetail__area {
+    padding-top: 10px;
+    width: 35%;
+    padding-left: 60px;
+}
+
 .footer__text {
     padding-top: 10px;
 }
