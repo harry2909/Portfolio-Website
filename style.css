@@ -344,18 +344,18 @@ header {
     margin: 6px;
 }
 
-.code__time{
+.code__time {
     display: flex;
     flex-direction: column;
 
 }
 
-.code__time > div{
+.code__time > div {
     margin: 6px;
     text-align: center;
 }
 
-.java__time{
+.java__time {
     width: 100%;
     border-radius: 3px;
     background: #d2e4e6;
@@ -363,11 +363,11 @@ header {
 
 .java__time p:hover {
     color: #4A708B;
-    transition: 0.3s ease 0s;
+    transition: 0.7s ease 0s;
     font-weight: bold;
 }
 
-.html__time{
+.html__time {
     width: 100%;
     border-radius: 3px;
     background: #d2e4e6;
@@ -375,11 +375,11 @@ header {
 
 .html__time p:hover {
     color: #4A708B;
-    transition: 0.3s ease 0s;
+    transition: 0.7s ease 0s;
     font-weight: bold;
 }
 
-.css__time{
+.css__time {
     width: 100%;
     border-radius: 3px;
     background: #d2e4e6;
@@ -387,11 +387,11 @@ header {
 
 .css__time p:hover {
     color: #4A708B;
-    transition: 0.3s ease 0s;
+    transition: 0.7s ease 0s;
     font-weight: bold;
 }
 
-.php__time{
+.php__time {
     width: 65%;
     border-radius: 3px;
     background: #d2e4e6;
@@ -399,11 +399,11 @@ header {
 
 .php__time p:hover {
     color: #4A708B;
-    transition: 0.3s ease 0s;
+    transition: 0.7s ease 0s;
     font-weight: bold;
 }
 
-.js__time{
+.js__time {
     width: 35%;
     border-radius: 3px;
     background: #d2e4e6;
@@ -411,11 +411,11 @@ header {
 
 .js__time p:hover {
     color: #4A708B;
-    transition: 0.3s ease 0s;
+    transition: 0.7s ease 0s;
     font-weight: bold;
 }
 
-.c__time{
+.c__time {
     width: 25%;
     border-radius: 3px;
     background: #d2e4e6;
@@ -423,11 +423,11 @@ header {
 
 .c__time p:hover {
     color: #4A708B;
-    transition: 0.3s ease 0s;
+    transition: 0.7s ease 0s;
     font-weight: bold;
 }
 
-.laravel__time{
+.laravel__time {
     width: 25%;
     border-radius: 3px;
     background: #d2e4e6;
@@ -435,7 +435,7 @@ header {
 
 .laravel__time p:hover {
     color: #4A708B;
-    transition: 0.3s ease 0s;
+    transition: 0.7s ease 0s;
     font-weight: bold;
 }
 
