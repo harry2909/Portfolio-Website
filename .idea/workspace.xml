@@ -4,6 +4,7 @@
     <list default="true" id="02f9eea0-2102-4955-b352-27f7ec448924" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +52,7 @@
       <updated>1602450714173</updated>
       <workItem from="1602450715196" duration="16000" />
       <workItem from="1602450925308" duration="1342000" />
-      <workItem from="1602590190573" duration="13564000" />
+      <workItem from="1602590190573" duration="13675000" />
     </task>
     <task id="LOCAL-00001" summary="-">
       <created>1602450968119</created>
@@ -144,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602607509791</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Gave up on modal box as cannot properly display doc file.&#10;Added form to get the doc as a download on button press.">
+      <created>1602607902407</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1602607902407</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,13 +173,14 @@
     <MESSAGE value="Amended gears image class name to about me&#10;Added hover color change for better contrast on hover" />
     <MESSAGE value="Retyped modal box dialogue.&#10;Formatted CSS." />
     <MESSAGE value="Creating second modal box for CV after having to remake it&#10;Styling to prevent copying of site.&#10;Styling for cv button" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creating second modal box for CV after having to remake it&#10;Styling to prevent copying of site.&#10;Styling for cv button" />
+    <MESSAGE value="Gave up on modal box as cannot properly display doc file.&#10;Added form to get the doc as a download on button press." />
+    <option name="LAST_COMMIT_MESSAGE" value="Gave up on modal box as cannot properly display doc file.&#10;Added form to get the doc as a download on button press." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="402" y="43" width="1273" height="908" key="CommitChangelistDialog2" timestamp="1602607509148">
+    <state x="402" y="43" width="1273" height="908" key="CommitChangelistDialog2" timestamp="1602607901769">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="402" y="43" width="1273" height="908" key="CommitChangelistDialog2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602607509148" />
+    <state x="402" y="43" width="1273" height="908" key="CommitChangelistDialog2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602607901769" />
     <state x="262" y="61" key="DiffContextDialog" timestamp="1602607489922">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -184,10 +193,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602451046926" />
-    <state x="551" y="251" key="Vcs.Push.Dialog.v2" timestamp="1602607512991">
+    <state x="551" y="251" key="Vcs.Push.Dialog.v2" timestamp="1602607904696">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="551" y="251" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602607512991" />
+    <state x="551" y="251" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602607904696" />
     <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602450973466">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
