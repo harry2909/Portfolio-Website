@@ -62,6 +62,15 @@ header {
     text-decoration: underline;
 }
 
+.scroll {
+    background-color: #d2e4e6;
+    transition: 0.7s ease 0s;
+}
+
+.scroll2{
+    transition: 0.7s ease 0s;
+}
+
 .welcome__area {
     display: flex;
     justify-content: center;
@@ -108,8 +117,8 @@ header {
 
 .image__area {
     padding-left: 120px;
-    max-width: 28%;
-    max-height: 28%;
+    max-width: 38%;
+    max-height: 38%;
 }
 
 .harry__image {
@@ -204,8 +213,8 @@ header {
 
 .aboutImage__area {
     padding-left: 120px;
-    max-width: 28%;
-    max-height: 28%;
+    max-width: 38%;
+    max-height: 38%;
 }
 
 .gears__image {
@@ -265,8 +274,8 @@ header {
 
 .codeImage__area {
     padding-left: 120px;
-    max-width: 28%;
-    max-height: 28%;
+    max-width: 38%;
+    max-height: 38%;
 }
 
 .code__image {
