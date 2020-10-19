@@ -1,8 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="02f9eea0-2102-4955-b352-27f7ec448924" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="02f9eea0-2102-4955-b352-27f7ec448924" name="Default Changelist" comment="Testing font size =&gt; max-width 1400px">
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +69,7 @@
       <workItem from="1602450925308" duration="1342000" />
       <workItem from="1602590190573" duration="16770000" />
       <workItem from="1602621078157" duration="13000" />
-      <workItem from="1603132921599" duration="312000" />
+      <workItem from="1603132921599" duration="603000" />
     </task>
     <task id="LOCAL-00001" summary="-">
       <created>1602450968119</created>
@@ -180,7 +197,35 @@
       <option name="project" value="LOCAL" />
       <updated>1602621339150</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Changed about__me__text to have a greater width using media queries">
+      <created>1603133380785</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1603133380785</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Testing font size">
+      <created>1603133451992</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1603133451992</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Testing font size =&gt; min-width 1400px">
+      <created>1603133500875</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1603133500875</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Testing font size =&gt; max-width 1400px">
+      <created>1603133555429</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1603133555429</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,6 +239,17 @@
         <option value="3" />
         <option value="1" />
       </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
     </option>
   </component>
   <component name="VcsManagerConfiguration">
@@ -215,7 +271,11 @@
     <MESSAGE value="Added contact me section.&#10;New PHP file to send and structure email. Sends to my personal email." />
     <MESSAGE value="added several headers to avoid spam protection" />
     <MESSAGE value="-" />
-    <option name="LAST_COMMIT_MESSAGE" value="-" />
+    <MESSAGE value="Changed about__me__text to have a greater width using media queries" />
+    <MESSAGE value="Testing font size" />
+    <MESSAGE value="Testing font size =&gt; min-width 1400px" />
+    <MESSAGE value="Testing font size =&gt; max-width 1400px" />
+    <option name="LAST_COMMIT_MESSAGE" value="Testing font size =&gt; max-width 1400px" />
   </component>
   <component name="WindowStateProjectService">
     <state x="402" y="43" width="1273" height="908" key="CommitChangelistDialog2" timestamp="1602621338243">
@@ -238,10 +298,12 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602451046926" />
-    <state x="551" y="251" key="Vcs.Push.Dialog.v2" timestamp="1602621345177">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="367" y="194" key="Vcs.Push.Dialog.v2" timestamp="1603133561860">
+      <screen x="0" y="23" width="1280" height="706" />
     </state>
     <state x="551" y="251" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602621345177" />
+    <state x="367" y="194" key="Vcs.Push.Dialog.v2/0.23.1280.706@0.23.1280.706" timestamp="1603133561860" />
+    <state x="367" y="194" key="Vcs.Push.Dialog.v2/0.23.1280.707@0.23.1280.707" timestamp="1603133386581" />
     <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602450973466">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
