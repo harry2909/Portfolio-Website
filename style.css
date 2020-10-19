@@ -583,8 +583,8 @@ header {
 and (min-device-width: 1200px)
 and (max-device-width: 1600px)
 and (-webkit-min-device-pixel-ratio: 1) {
-    div.about__me__text{
-        width: 50%;
+    div.about__text{
+        width: 60%;
         font-size: 20px;
     }
 }
