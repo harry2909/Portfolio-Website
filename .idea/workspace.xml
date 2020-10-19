@@ -409,7 +409,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603147294896</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="Adjusted padding once again">
+      <created>1603147366990</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1603147366990</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -487,10 +494,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602451046926" />
-    <state x="367" y="194" key="Vcs.Push.Dialog.v2" timestamp="1603147299145">
+    <state x="367" y="194" key="Vcs.Push.Dialog.v2" timestamp="1603147370961">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="367" y="194" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1603147299145" />
+    <state x="367" y="194" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1603147370961" />
     <state x="551" y="251" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602621345177" />
     <state x="367" y="194" key="Vcs.Push.Dialog.v2/0.23.1280.706@0.23.1280.706" timestamp="1603144629190" />
     <state x="367" y="194" key="Vcs.Push.Dialog.v2/0.23.1280.707@0.23.1280.707" timestamp="1603133386581" />
