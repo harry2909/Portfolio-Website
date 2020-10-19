@@ -604,10 +604,10 @@ and (-webkit-min-device-pixel-ratio: 1) {
         width: 14%;
     }
     div.about__area{
-        padding-top: 30px;
+        padding-top: -130px;
     }
     div.code__area{
-        padding-top: 30px;
+        padding-top: -130px;
     }
     div.codeDetail__area{
         width: 55%;
@@ -617,7 +617,7 @@ and (-webkit-min-device-pixel-ratio: 1) {
         padding-left: 40px;
     }
     div.code__bubble{
-        width: 16%;
+        width: 12%;
     }
 }
 
