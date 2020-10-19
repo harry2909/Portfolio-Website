@@ -579,7 +579,7 @@ header {
     }
 }
 
-@media screen and (max-width: 1400px) {
+@media screen and (min-width: 1400px) {
     div.about__me__text {
         width: 50%;
         font-size: 900px;
