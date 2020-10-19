@@ -604,10 +604,10 @@ and (-webkit-min-device-pixel-ratio: 1) {
         width: 14%;
     }
     div.about__area{
-        padding-top: 130px;
+        padding-top: 90px;
     }
     div.code__area{
-        padding-top: 130px;
+        padding-top: 90px;
     }
     div.codeDetail__area{
         width: 55%;
