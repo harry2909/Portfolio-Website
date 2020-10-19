@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02f9eea0-2102-4955-b352-27f7ec448924" name="Default Changelist" comment="Added styling to some of the contact areas">
+    <list default="true" id="02f9eea0-2102-4955-b352-27f7ec448924" name="Default Changelist" comment="Added styling for code area">
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +71,7 @@
       <workItem from="1602590190573" duration="16770000" />
       <workItem from="1602621078157" duration="13000" />
       <workItem from="1603132921599" duration="2044000" />
-      <workItem from="1603144353070" duration="801000" />
+      <workItem from="1603144353070" duration="1144000" />
     </task>
     <task id="LOCAL-00001" summary="-">
       <created>1602450968119</created>
@@ -304,7 +304,21 @@
       <option name="project" value="LOCAL" />
       <updated>1603145092020</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Changed padding for about area">
+      <created>1603145283745</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1603145283745</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Added styling for code area">
+      <created>1603145558914</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1603145558914</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -334,8 +348,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Setting up modal box instead of separate page to display more content about me." />
-    <MESSAGE value="Created section for popup modal box.&#10;Added javascript for modal." />
     <MESSAGE value="Added script to add header colour on scroll and remove once at the top of the page.&#10;Various styling for each including ease transition." />
     <MESSAGE value="Removed extra about page." />
     <MESSAGE value="Renamed link to CV to prepare for CV section." />
@@ -359,7 +371,9 @@
     <MESSAGE value="about area padding changed" />
     <MESSAGE value="Changed bubble width for about area" />
     <MESSAGE value="Added styling to some of the contact areas" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added styling to some of the contact areas" />
+    <MESSAGE value="Changed padding for about area" />
+    <MESSAGE value="Added styling for code area" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added styling for code area" />
   </component>
   <component name="WindowStateProjectService">
     <state x="402" y="43" width="1273" height="908" key="CommitChangelistDialog2" timestamp="1602621338243">
@@ -382,10 +396,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602451046926" />
-    <state x="367" y="194" key="Vcs.Push.Dialog.v2" timestamp="1603145099416">
+    <state x="367" y="194" key="Vcs.Push.Dialog.v2" timestamp="1603145562690">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="367" y="194" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1603145099416" />
+    <state x="367" y="194" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1603145562690" />
     <state x="551" y="251" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602621345177" />
     <state x="367" y="194" key="Vcs.Push.Dialog.v2/0.23.1280.706@0.23.1280.706" timestamp="1603144629190" />
     <state x="367" y="194" key="Vcs.Push.Dialog.v2/0.23.1280.707@0.23.1280.707" timestamp="1603133386581" />
