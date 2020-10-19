@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02f9eea0-2102-4955-b352-27f7ec448924" name="Default Changelist" comment="Adjusted padding once again">
+    <list default="true" id="02f9eea0-2102-4955-b352-27f7ec448924" name="Default Changelist" comment="Adjusted padding for contact area">
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,13 +72,6 @@
       <workItem from="1602621078157" duration="13000" />
       <workItem from="1603132921599" duration="2044000" />
       <workItem from="1603144353070" duration="2272000" />
-    </task>
-    <task id="LOCAL-00002" summary="Added code section with divs for each skills.&#10;Aligned all divs within code detail area.&#10;Added footer and copyright text.">
-      <created>1602592850898</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1602592850898</updated>
     </task>
     <task id="LOCAL-00003" summary="Removed Social Media links in HTML.&#10;&#10;Added code time visualisation section.&#10;&#10;Removed reusable comment code.&#10;&#10;Changed header from sticky to fixed.&#10;&#10;Added code for new bubblesl and skills area in css.">
       <created>1602594596850</created>
@@ -416,7 +409,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603147480958</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="Adjusted padding for contact area">
+      <created>1603147644761</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1603147644761</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -446,7 +446,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Gave up on modal box as cannot properly display doc file.&#10;Added form to get the doc as a download on button press." />
     <MESSAGE value="Downloaded font awesome lib." />
     <MESSAGE value="Added contact me section.&#10;New PHP file to send and structure email. Sends to my personal email." />
     <MESSAGE value="added several headers to avoid spam protection" />
@@ -471,7 +470,8 @@
     <MESSAGE value="Readjusted padding" />
     <MESSAGE value="Changed link location for skills&#10;Adjusted padding" />
     <MESSAGE value="Adjusted padding once again" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adjusted padding once again" />
+    <MESSAGE value="Adjusted padding for contact area" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adjusted padding for contact area" />
   </component>
   <component name="WindowStateProjectService">
     <state x="402" y="43" width="1273" height="908" key="CommitChangelistDialog2" timestamp="1602621338243">
@@ -494,10 +494,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602451046926" />
-    <state x="367" y="194" key="Vcs.Push.Dialog.v2" timestamp="1603147483068">
+    <state x="367" y="194" key="Vcs.Push.Dialog.v2" timestamp="1603147648096">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="367" y="194" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1603147483068" />
+    <state x="367" y="194" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1603147648096" />
     <state x="551" y="251" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602621345177" />
     <state x="367" y="194" key="Vcs.Push.Dialog.v2/0.23.1280.706@0.23.1280.706" timestamp="1603144629190" />
     <state x="367" y="194" key="Vcs.Push.Dialog.v2/0.23.1280.707@0.23.1280.707" timestamp="1603133386581" />
