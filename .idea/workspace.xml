@@ -73,13 +73,6 @@
       <workItem from="1603132921599" duration="2044000" />
       <workItem from="1603144353070" duration="2272000" />
     </task>
-    <task id="LOCAL-00001" summary="-">
-      <created>1602450968119</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1602450968119</updated>
-    </task>
     <task id="LOCAL-00002" summary="Added code section with divs for each skills.&#10;Aligned all divs within code detail area.&#10;Added footer and copyright text.">
       <created>1602592850898</created>
       <option name="number" value="00002" />
@@ -416,7 +409,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603147366990</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="Adjusted padding once again">
+      <created>1603147480958</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1603147480958</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -494,10 +494,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602451046926" />
-    <state x="367" y="194" key="Vcs.Push.Dialog.v2" timestamp="1603147370961">
+    <state x="367" y="194" key="Vcs.Push.Dialog.v2" timestamp="1603147483068">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="367" y="194" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1603147370961" />
+    <state x="367" y="194" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1603147483068" />
     <state x="551" y="251" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602621345177" />
     <state x="367" y="194" key="Vcs.Push.Dialog.v2/0.23.1280.706@0.23.1280.706" timestamp="1603144629190" />
     <state x="367" y="194" key="Vcs.Push.Dialog.v2/0.23.1280.707@0.23.1280.707" timestamp="1603133386581" />

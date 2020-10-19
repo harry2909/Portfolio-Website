@@ -525,6 +525,7 @@ header {
     justify-content: center;
     margin: 0 auto;
     padding-top: 260px;
+    padding-bottom: 260px;
 }
 
 .contact__bubble {
@@ -631,6 +632,9 @@ and (-webkit-min-device-pixel-ratio: 1) {
     }
     div.code__bubble{
         width: 14%;
+    }
+    div.contact__bubble{
+        width: 40%;
     }
 }
 
