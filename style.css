@@ -558,6 +558,15 @@ header {
     padding-left: 60px;
 }
 
+/* adding stylng for the form */
+
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
 .footer__text {
     padding-top: 10px;
 }
