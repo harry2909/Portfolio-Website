@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02f9eea0-2102-4955-b352-27f7ec448924" name="Default Changelist" comment="Testing font size =&gt; max-width 1400px">
+    <list default="true" id="02f9eea0-2102-4955-b352-27f7ec448924" name="Default Changelist" comment="Retrying media queries">
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +69,7 @@
       <workItem from="1602450925308" duration="1342000" />
       <workItem from="1602590190573" duration="16770000" />
       <workItem from="1602621078157" duration="13000" />
-      <workItem from="1603132921599" duration="603000" />
+      <workItem from="1603132921599" duration="684000" />
     </task>
     <task id="LOCAL-00001" summary="-">
       <created>1602450968119</created>
@@ -225,7 +225,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603133555429</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Retrying media queries">
+      <created>1603133706480</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1603133706480</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -275,7 +282,8 @@
     <MESSAGE value="Testing font size" />
     <MESSAGE value="Testing font size =&gt; min-width 1400px" />
     <MESSAGE value="Testing font size =&gt; max-width 1400px" />
-    <option name="LAST_COMMIT_MESSAGE" value="Testing font size =&gt; max-width 1400px" />
+    <MESSAGE value="Retrying media queries" />
+    <option name="LAST_COMMIT_MESSAGE" value="Retrying media queries" />
   </component>
   <component name="WindowStateProjectService">
     <state x="402" y="43" width="1273" height="908" key="CommitChangelistDialog2" timestamp="1602621338243">
@@ -298,11 +306,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602451046926" />
-    <state x="367" y="194" key="Vcs.Push.Dialog.v2" timestamp="1603133561860">
+    <state x="367" y="194" key="Vcs.Push.Dialog.v2" timestamp="1603133710324">
       <screen x="0" y="23" width="1280" height="706" />
     </state>
     <state x="551" y="251" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602621345177" />
-    <state x="367" y="194" key="Vcs.Push.Dialog.v2/0.23.1280.706@0.23.1280.706" timestamp="1603133561860" />
+    <state x="367" y="194" key="Vcs.Push.Dialog.v2/0.23.1280.706@0.23.1280.706" timestamp="1603133710324" />
     <state x="367" y="194" key="Vcs.Push.Dialog.v2/0.23.1280.707@0.23.1280.707" timestamp="1603133386581" />
     <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602450973466">
       <screen x="0" y="0" width="1920" height="1040" />
